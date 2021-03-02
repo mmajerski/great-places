@@ -6,7 +6,8 @@ This is a very simple system that user can search for interesting cities and mak
 
 **Stack**
 
-NodeJs, React, TypeScript(both client and server), Express, GraphQL, Apollo Server, Apollo Client
+NodeJs, React, TypeScript(both client and server), Express, GraphQL, Apollo Server, Apollo Client.
+
 App is integrated with:
 
 - Cloudinary
@@ -18,5 +19,5 @@ App is integrated with:
 
 ![](demo.gif)
 
-**Live**  
+**Check out live**  
 [Live](https://greatplaces-app.herokuapp.com/)
